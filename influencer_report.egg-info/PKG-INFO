@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: influencer-report
+Version: 1.0.0
+Summary: Aggregates the multi-tabbed influencer report excel sheets into a digestible json list
+Home-page: UNKNOWN
+Author: James O'Brien
+Author-email: james@oneriossolutions.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Data Scientists
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3
